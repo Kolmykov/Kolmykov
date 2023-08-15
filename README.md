@@ -9,7 +9,7 @@
 
 ---
 
-### ✨ <a href="https://github.com/Kolmykov/myprojects/tree/main">Мои работы</a>
+### ✨ <a href="https://github.com/Kolmykov/myprojects/tree/main">Учебные проекты</a>
 
 ---
 
@@ -35,7 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="pointer-events: none;" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://psychonautwiki.org/w/thumb.php?f=Git-square.svg&width=1200" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://www.syssoft.ru/upload/iblock/298/29845fefac1e77a25ec78ed0b574bed7.jpg" title="protopie" alt="protopie" width="40" height="40"/>&nbsp;
